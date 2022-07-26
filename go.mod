@@ -4,9 +4,9 @@ go 1.17
 
 require (
 	github.com/Azure/azure-sdk-for-go v62.2.0+incompatible
-	github.com/Azure/go-autorest/autorest v0.11.24
+	github.com/Azure/go-autorest/autorest v0.11.28
 	github.com/Azure/go-autorest/autorest/adal v0.9.18
-	github.com/Azure/go-autorest/autorest/mocks v0.4.1
+	github.com/Azure/go-autorest/autorest/mocks v0.4.2
 	github.com/Azure/go-autorest/autorest/to v0.4.0
 	github.com/evanphx/json-patch v5.6.0+incompatible
 	github.com/fsnotify/fsnotify v1.5.1
@@ -16,7 +16,7 @@ require (
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
 	k8s.io/api v0.23.3
 	k8s.io/apimachinery v0.23.3
